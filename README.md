@@ -4,56 +4,53 @@
 
 ### Horizontal logo
 
-name | color
---- | ---
-[LogoHorizontal.png](LogoHorizontal.png) | <img src="LogoHorizontal.png" width="500px"/>
-[LogoHorizontal.eps](LogoHorizontal.eps) | -
-[LogoHorizontal.svg](LogoHorizontal.svg) | <img src="LogoHorizontal.svg" width="500px"/>
-[LogoDarkHorizontal.png](LogoDarkHorizontal.png) | <img src="LogoDarkHorizontal.png" width="500px"/>
-[LogoDarkHorizontal.svg](LogoDarkHorizontal.svg) | <img src="LogoDarkHorizontal.svg" width="500px"/>
-[LogoLightHorizontal.png](LogoLightHorizontal.png) | <img src="LogoLightHorizontal.png" width="500px"/>
-[LogoLightHorizontal.svg](LogoLightHorizontal.svg) | <img src="LogoLightHorizontal.svg" width="500px"/>
-[LogoSquare.png](LogoSquare.png) | <img src="LogoSquare.png" width="500px"/>
-[LogoSquare.eps](LogoSquare.eps) | -
-[LogoSquare.svg](LogoSquare.svg) | <img src="LogoSquare.svg" width="500px"/>
+logo | png | svg | eps
+--- | --- |--- | ---
+<img src="LogoHorizontal.png" width="500px"/> | [LogoHorizontal.png](LogoHorizontal.png) | [LogoHorizontal.svg](LogoHorizontal.svg) | [LogoHorizontal.eps](LogoHorizontal.eps)
+<img src="LogoLightHorizontal.png" width="500px"/> |[LogoLightHorizontal.png](LogoLightHorizontal.png) | [LogoLightHorizontal.svg](LogoLightHorizontal.svg) | -
+<img src="LogoDarkHorizontal.png" width="500px"/> | [LogoDarkHorizontal.png](LogoDarkHorizontal.png) | [LogoDarkHorizontal.svg](LogoDarkHorizontal.svg) | -
+<img src="LogoSquare.png" width="250px"/> | [LogoSquare.png](LogoSquare.png) | [LogoSquare.svg](LogoSquare.svg) | [LogoSquare.eps](LogoSquare.eps)
+<img src="LogoSquareLight.png" width="250px"/> | [LogoSquareLight.png](LogoSquare.png) | [LogoSquareLight.svg](LogoSquare.svg) | -
+<img src="LogoSquareDark.png" width="250px"/> | [LogoSquareDark.png](LogoSquare.png) | [LogoSquareDark.svg](LogoSquare.svg) | -
 
 ### Icons
 
-name | color
---- | ---
-[IconColored.png](IconColored.png) | <img src="IconColored.pngg" width="200px"/>
-[IconColored.svg](IconColored.svg) | <img src="IconColored.svg" width="200px"/>
-[IconDark.png](IconDark.png) | <img src="IconDark.pngg" width="200px"/>
-[IconDark.svg](IconDark.svg) | <img src="IconDark.svg" width="200px"/>
-[IconLight.png](IconLight.png) | <img src="IconLight.pngg" width="200px"/>
-[IconLight.svg](IconLight.svg) | <img src="IconLight.svg" width="200px"/>
+icon | png | svg 
+--- | --- |--- 
+<img src="IconColored.png" width="150px"/> | [IconColored.png](IconColored.png) | [IconColored.svg](IconColored.svg)
+<img src="IconLight.png" width="150px"/> | [IconLight.png](IconLight.png) | [IconLight.svg](IconLight.svg)
+<img src="IconDark.png" width="150px"/> | [IconDark.png](IconDark.png) | [IconDark.svg](IconDark.svg)
 
 ## Colors
 
- name | color | hex | RAL | Pantone
+<!-- name | color | hex | RAL | Pantone
 ------------ | ------------- | ------------- | ------------- | -------------
-Primary | ![](https://singlecolorimage.com/get/FF6D00/32x32) | ff6d00 | 2017 | 164 C
-Secondary | ![](https://singlecolorimage.com/get/007FFF/32x32) | 007fff | 5015 | 2194 C 
+Primary | ![](https://singlecolorimage.com/get/353790/32x32) | 353790 | 2017 | 164 C
+Secondary | ![](https://singlecolorimage.com/get/007FFF/32x32) | 353790f | 5015 | 2194 C 
 on Primary | ![](https://singlecolorimage.com/get/ffffff/32x32) | ffffff |   | 
-on Secondary | ![](https://singlecolorimage.com/get/ffffff/32x32) | ffffff |   | 
+on Secondary | ![](https://singlecolorimage.com/get/ffffff/32x32) | ffffff |   | -->
 
-### Primary color variations
+### Gradient
 
- ff4800 | ff6000 | *ff6d00* | ff7900 | ff8500 | ff9100
------------- | ------------- | ------------- | ------------- | ------------- | -------------
-![](https://singlecolorimage.com/get/ff4800/32x32) | ![](https://singlecolorimage.com/get/ff6000/32x32) | ![](https://singlecolorimage.com/get/FF6D00/32x32) | ![](https://singlecolorimage.com/get/ff7900/32x32) | ![](https://singlecolorimage.com/get/ff8500/32x32) | ![](https://singlecolorimage.com/get/ff9100/32x32)
+353790 | 473490 | 58308F | 692D8E | 7A298D | 8C268C | 9D228B | AE1E8A | BF1A89
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+![](https://singlecolorimage.com/get/353790/32x32) | ![](https://singlecolorimage.com/get/473490/32x32) | ![](https://singlecolorimage.com/get/58308F/32x32) | ![](https://singlecolorimage.com/get/692D8E/32x32) | ![](https://singlecolorimage.com/get/7A298D/32x32) | ![](https://singlecolorimage.com/get/8C268C/32x32) | ![](https://singlecolorimage.com/get/9D228B/32x32) | ![](https://singlecolorimage.com/get/AE1E8A/32x32) | ![](https://singlecolorimage.com/get/BF1A89/32x32)
 
 
-### Secondary color variations
+### Color variations
 
-004c99 | 0066cc | _007fff_ | 3299ff | 66b2ff | 66b2ff 
------------- | ------------- | ------------- | ------------- | ------------- | -------------
-![](https://singlecolorimage.com/get/004c99/32x32) | ![](https://singlecolorimage.com/get/0066cc/32x32) | ![](https://singlecolorimage.com/get/007fff/32x32) | ![](https://singlecolorimage.com/get/3299ff/32x32) | ![](https://singlecolorimage.com/get/66b2ff/32x32) | ![](https://singlecolorimage.com/get/66b2ff/32x32)
+353790 | 4C4EBD | 797ACD | A6A7DE | D2D3EE | 
+------------ | ------------- | ------------- | ------------- | ------------- 
+![](https://singlecolorimage.com/get/353790/32x32) | ![](https://singlecolorimage.com/get/4C4EBD/32x32) | ![](https://singlecolorimage.com/get/797ACD/32x32) | ![](https://singlecolorimage.com/get/A6A7DE/32x32) | ![](https://singlecolorimage.com/get/D2D3EE/32x32)
+
+6FFCBF | 4BFBAE | 23FB9D | 05F08A | 04C873
+------------ | ------------- | ------------- | ------------- | ------------- 
+![](https://singlecolorimage.com/get/6FFCBF/32x32) | ![](https://singlecolorimage.com/get/4BFBAE/32x32) | ![](https://singlecolorimage.com/get/23FB9D/32x32) | ![](https://singlecolorimage.com/get/05F08A/32x32) | ![](https://singlecolorimage.com/get/04C873/32x32)
 
 ### Gray variations
 
 222129 | 363440 | 4B4957 | 6E6B7D | B0AEBD | CECCD9 | E0DFE6 | EAE9F0
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 ![](https://singlecolorimage.com/get/222129/32x32) | ![](https://singlecolorimage.com/get/363440/32x32) | ![](https://singlecolorimage.com/get/4B4957/32x32) | ![](https://singlecolorimage.com/get/6E6B7D/32x32) | ![](https://singlecolorimage.com/get/B0AEBD/32x32) | ![](https://singlecolorimage.com/get/CECCD9/32x32) | ![](https://singlecolorimage.com/get/E0DFE6/32x32) | ![](https://singlecolorimage.com/get/EAE9F0/32x32)
 
 
@@ -66,4 +63,4 @@ Inter | Basic text font | [Google Fonts](https://fonts.google.com/specimen/Inter
 Roboto | Alternative text font | [Google Fonts](https://fonts.google.com/specimen/Roboto?category=Sans+Serif,Display&subset=cyrillic&preview.text=no%20flip%20flops&preview.text_type=custom&query=roboto)
 
 ## Usage
-![](logoUsage.png)
+![](Usage.png)

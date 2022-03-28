@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000077300790986589687910000007640179454537692045_);}
+	.st2{fill:#010101;}
+</style>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="129.1817" y1="221.5" x2="375.9853" y2="221.5">
+			<stop  offset="0" style="stop-color:#37358F"/>
+			<stop  offset="1" style="stop-color:#BF1A89"/>
+		</linearGradient>
+		<polygon class="st0" points="256,250 256,286 384,213 288,157 256,175 256,213 288,231 		"/>
+		
+			<linearGradient id="SVGID_00000050662589627810946900000014327592206123853998_" gradientUnits="userSpaceOnUse" x1="129.2008" y1="212.5" x2="375.9107" y2="212.5">
+			<stop  offset="0" style="stop-color:#37358F"/>
+			<stop  offset="1" style="stop-color:#BF1A89"/>
+		</linearGradient>
+		<polygon style="fill:url(#SVGID_00000050662589627810946900000014327592206123853998_);" points="224,268 224,231 256,213 
+			224,194 224,157 128,213 		"/>
+	</g>
+	<g>
+		<path class="st2" d="M122,318h6v36h-6V318z"/>
+		<path class="st2" d="M138,318h6v30h16v6h-22V318z"/>
+		<path class="st2" d="M165,318h6v30h16v6h-22V318z"/>
+		<path class="st2" d="M230,318h6.3l12.2,16.8l11.6-16.8h5.9v36h-6v-25.9L248.5,344h-0.9L236,328.2V354h-6V318z"/>
+		<path class="st2" d="M275,318h21v6h-15v9h13v6h-13v9h15v6h-21V318z"/>
+		<path class="st2" d="M299,318h30v6h-12v30h-6v-30h-12V318z"/>
+		<path class="st2" d="M378,339v15h-6v-15l-12-21h6.8l8.5,15.1l8.4-15.1h6.5L378,339z"/>
+		<path class="st2" d="M215,318v22.5c0,4.7-3.8,8.5-8.5,8.5s-8.5-3.8-8.5-8.5V318h-6v22.5c0,8,6.5,14.5,14.5,14.5
+			s14.5-6.5,14.5-14.5V318H215z"/>
+		<path class="st2" d="M351.4,339.3c3.3-2,5.6-5.7,5.6-9.8c0-6.4-5.2-11.5-11.5-11.5H333v36h6v-13h6.5l7.5,13h6.9L351.4,339.3z
+			 M345.5,335H339v-11c0,0,5.3,0,6.5,0c3,0,5.5,2.5,5.5,5.5C351,332.5,348.5,335,345.5,335z"/>
+	</g>
+</g>
+</svg>

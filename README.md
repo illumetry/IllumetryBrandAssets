@@ -64,3 +64,9 @@ Roboto | Alternative text font | [Google Fonts](https://fonts.google.com/specime
 
 ## Usage
 ![](Usage.png)
+
+## Backgrounds
+<img src="Backgrounds/BackgroundLight.jpg" width="500px"/>
+<img src="Backgrounds/BackgroundLight1.jpg" width="500px"/>
+<img src="Backgrounds/BackgroundDark.jpg" width="500px"/>
+<img src="Backgrounds/BackgroundDark1.jpg" width="500px"/>

@@ -20,6 +20,7 @@ icon | png | svg
 <img src="IconColored.png" width="150px"/> | [IconColored.png](IconColored.png) | [IconColored.svg](IconColored.svg)
 <img src="IconLight.png" width="150px"/> | [IconLight.png](IconLight.png) | [IconLight.svg](IconLight.svg)
 <img src="IconDark.png" width="150px"/> | [IconDark.png](IconDark.png) | [IconDark.svg](IconDark.svg)
+<img src="IconColoredSquare.png" width="150px"/> | [IconColoredSquare.png](IconColoredSquare.png) | [IconColoredSquare.svg](IconColoredSquare.svg)
 
 ## Colors
 

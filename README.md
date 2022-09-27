@@ -1,6 +1,9 @@
 # brandAssets
 ## Links
 
+https://www.reddit.com/r/illumetry   https://www.reddit.com/u/illumetry
+
+
 https://www.tiktok.com/@illumetry
 
 https://www.linkedin.com/company/illumetry

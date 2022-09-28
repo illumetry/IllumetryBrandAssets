@@ -5,9 +5,9 @@
 - [ ] https://www.reddit.com/u/illumetry
 - [ ] https://www.tiktok.com/@illumetry
 - [ ] https://www.linkedin.com/company/illumetry
-- [ ] https://twitter.com/illumetry
-- [ ] https://www.facebook.com/illumetry
-- [ ] https://www.youtube.com/illumetry
+- [x] https://twitter.com/illumetry
+- [x] https://www.facebook.com/illumetry
+- [x] https://www.youtube.com/illumetry
 - [ ] https://www.instagram.com/illumetry
 
 ## Logo

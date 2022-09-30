@@ -1,14 +1,14 @@
 # brandAssets
 ## Links
 
-- [ ] https://www.reddit.com/r/illumetry
-- [ ] https://www.reddit.com/u/illumetry
-- [ ] https://www.tiktok.com/@illumetry
-- [ ] https://www.linkedin.com/company/illumetry
+- [x] https://www.reddit.com/r/illumetry
+- [x] https://www.reddit.com/u/illumetry
+- [x] https://www.tiktok.com/@illumetry
+- [x] https://www.linkedin.com/company/illumetry
 - [x] https://twitter.com/illumetry
 - [x] https://www.facebook.com/illumetry
 - [x] https://www.youtube.com/illumetry
-- [ ] https://www.instagram.com/illumetry
+- [x] https://www.instagram.com/illumetryio
 
 ## Logo
 

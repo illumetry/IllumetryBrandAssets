@@ -10,6 +10,10 @@
 - [x] https://www.youtube.com/illumetry
 - [x] https://www.instagram.com/illumetryio
 
+## Descriptions
+Long - A holographic display and 3D glasses based on Antilatency tracking system for education and entertainment.
+Short - A holographic display and 3D glasses based on Antilatency tracking system.
+
 ## Logo
 
 ### Horizontal logo

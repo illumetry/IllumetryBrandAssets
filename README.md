@@ -16,8 +16,6 @@ Short - A holographic display and 3D glasses based on Antilatency tracking syste
 
 ## Logo
 
-### Horizontal logo
-
 logo | png | svg | eps
 --- | --- |--- | ---
 <img src="LogoHorizontal.png" width="500px"/> | [LogoHorizontal.png](LogoHorizontal.png) | [LogoHorizontal.svg](LogoHorizontal.svg) | [LogoHorizontal.eps](LogoHorizontal.eps)

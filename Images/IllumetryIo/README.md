@@ -22,3 +22,17 @@ jpg | image
 [Display4.jpg](Display4.jpg) | <img src="Display4.jpg" width="256px"/>
 [Display5.jpg](Display5.jpg) | <img src="Display5.jpg" width="256px"/>
 [Display6.jpg](Display6.jpg) | <img src="Display6.jpg" width="256px"/>
+
+## People
+[Developer1.jpg](Developer1.jpg) | <img src="Developer1.jpg" width="256px"/>
+[Developer2.jpg](Developer2.jpg) | <img src="Developer2.jpg" width="256px"/>
+[Developer3.jpg](Developer3.jpg) | <img src="Developer3.jpg" width="256px"/>
+[Developer4.jpg](Developer4.jpg) | <img src="Developer4.jpg" width="256px"/>
+[Medical1.jpg](Medical1.jpg) | <img src="Medical1.jpg" width="256px"/>
+[Medical2.jpg](Medical2.jpg) | <img src="Medical2.jpg" width="256px"/>
+[Medical3.jpg](Medical3.jpg) | <img src="Medical3.jpg" width="256px"/>
+[Medical4.jpg](Medical4.jpg) | <img src="Medical4.jpg" width="256px"/>
+[Kid1.jpg](Kid1.jpg) | <img src="Kid1.jpg" width="256px"/>
+[Kid2.jpg](Kid2.jpg) | <img src="Kid2.jpg" width="256px"/>
+[Kid3.jpg](Kid3.jpg) | <img src="Kid3.jpg" width="256px"/>
+[Class.jpg](Class.jpg) | <img src="Class.jpg" width="256px"/>

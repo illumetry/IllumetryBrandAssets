@@ -24,6 +24,9 @@ jpg | image
 [Display6.jpg](Display6.jpg) | <img src="Display6.jpg" width="256px"/>
 
 ## People
+
+jpg | image
+--- | ---
 [Developer1.jpg](Developer1.jpg) | <img src="Developer1.jpg" width="256px"/>
 [Developer2.jpg](Developer2.jpg) | <img src="Developer2.jpg" width="256px"/>
 [Developer3.jpg](Developer3.jpg) | <img src="Developer3.jpg" width="256px"/>

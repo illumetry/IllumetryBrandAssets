@@ -1,5 +1,5 @@
 # IllumetryBrandAssets
-# Umages
+# Images
 ## IllumetryIo
 
 jpg | image

@@ -16,6 +16,7 @@ jpg | image
 [635.jpg](635.jpg) | <img src="635.jpg" width="256px"/>
 [659.jpg](659.jpg) | <img src="659.jpg" width="256px"/>
 [460.jpg](460.jpg) | <img src="460.jpg" width="256px"/>
+[377.jpg](377.jpg) | <img src="377.jpg" width="256px"/>
 
 ## Glasses and stylus
 

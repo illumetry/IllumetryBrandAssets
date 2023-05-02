@@ -24,6 +24,7 @@ logo | png | svg | eps
 <img src="LogoSquare.png" width="250px"/> | [LogoSquare.png](LogoSquare.png) | [LogoSquare.svg](LogoSquare.svg) | [LogoSquare.eps](LogoSquare.eps)
 <img src="LogoSquareLight.png" width="250px"/> | [LogoSquareLight.png](LogoSquare.png) | [LogoSquareLight.svg](LogoSquare.svg) | -
 <img src="LogoSquareDark.png" width="250px"/> | [LogoSquareDark.png](LogoSquare.png) | [LogoSquareDark.svg](LogoSquare.svg) | -
+<img src="LogoHorizontalBigText.png" width="250px"/> | [LogoHorizontalBigText.png](LogoHorizontalBigText.png) | [LogoHorizontalBigText.svg](LogoHorizontalBigText.svg) | -
 
 ### Icons
 

@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 824.3 129" style="enable-background:new 0 0 824.3 129;" xml:space="preserve">
+	 viewBox="0 0 723 128" style="enable-background:new 0 0 723 128;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_00000038383429906465719260000015095107785342102430_);}
+	.st1{fill:url(#SVGID_00000064354162319728190620000016799216857779456149_);}
 </style>
 <g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="64.5" x2="253.5219" y2="64.5">
-		<stop  offset="0" style="stop-color:#37388D"/>
-		<stop  offset="1" style="stop-color:#BC2585"/>
-	</linearGradient>
-	<polygon class="st0" points="128,93 128,129 256,56 160,0 128,18 128,56 160,74 	"/>
 	
-		<linearGradient id="SVGID_00000148663604846898658170000010234894352291462326_" gradientUnits="userSpaceOnUse" x1="0" y1="55.5" x2="253.5219" y2="55.5">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="56.5479" x2="222.2658" y2="56.5479" gradientTransform="matrix(1 0 0 -1 0 128)">
 		<stop  offset="0" style="stop-color:#37388D"/>
 		<stop  offset="1" style="stop-color:#BC2585"/>
 	</linearGradient>
-	<polygon style="fill:url(#SVGID_00000148663604846898658170000010234894352291462326_);" points="96,111 96,74 128,56 96,37 96,0 
-		0,56 	"/>
+	<polygon class="st0" points="112.2,96.4 112.2,128 224.4,64 140.3,14.9 112.2,30.7 112.2,64 140.3,79.8 	"/>
+	
+		<linearGradient id="SVGID_00000088811743480941228720000009919488891942511520_" gradientUnits="userSpaceOnUse" x1="0" y1="64.4384" x2="222.2658" y2="64.4384" gradientTransform="matrix(1 0 0 -1 0 128)">
+		<stop  offset="0" style="stop-color:#37388D"/>
+		<stop  offset="1" style="stop-color:#BC2585"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_00000088811743480941228720000009919488891942511520_);" points="84.2,112.2 84.2,79.8 112.2,64 
+		84.2,47.3 84.2,14.9 0,64 	"/>
 </g>
 <g>
-	<path d="M288,19h12v72h-12V19z"/>
-	<path d="M320,19h12v60h32v12h-44V19z"/>
-	<path d="M374,19h12v60h32v12h-44V19z"/>
-	<path d="M504,19h12.6L541,52.6L564.2,19H576v72h-12V39.1L541,71h-1.9L516,39.4V91h-12V19z"/>
-	<path d="M594,19h42v12h-30v18h26v12h-26v18h30v12h-42V19z"/>
-	<path d="M642,19h60v12h-24v60h-12V31h-24V19z"/>
-	<path d="M800,61v30h-12V61l-24.1-42h13.7l17,30.1L811.3,19h13L800,61z"/>
-	<path d="M474,19v45c0,9.4-7.6,17-17,17c-9.4,0-17-7.6-17-17V19h-12v45c0,16,13,29,29,29c16,0,29-13,29-29V19H474z"/>
-	<path d="M746.9,61.7c6.7-4,11.1-11.3,11.1-19.7c0-12.7-10.3-23-23-23h-25v72h12V65h13l15,26h13.8L746.9,61.7z M735,53h-13V31
-		c0,0,10.6,0,13,0c6.1,0,11,4.9,11,11S741.1,53,735,53z"/>
+	<path d="M252.5,31.6H263v63.1h-10.5V31.6z"/>
+	<path d="M280.5,31.6h10.5v52.6h28.1v10.5h-38.6V31.6z"/>
+	<path d="M327.9,31.6h10.5v52.6h28.1v10.5h-38.6V31.6z"/>
+	<path d="M441.9,31.6h11L474.3,61l20.3-29.5H505v63.1h-10.5V49.2l-20.2,28h-1.7l-20.3-27.7v45.2h-10.5V31.6z"/>
+	<path d="M520.8,31.6h36.8v10.5h-26.3v15.8h22.8v10.5h-22.8v15.8h26.3v10.5h-36.8V31.6z"/>
+	<path d="M562.8,31.6h52.6v10.5h-21v52.6h-10.5V42.1h-21V31.6z"/>
+	<path d="M701.4,68.4v26.3h-10.5V68.4l-21.1-36.8h12L696.6,58l14.6-26.4h11.4L701.4,68.4z"/>
+	<path d="M415.6,31.6V71c0,8.2-6.7,14.9-14.9,14.9s-14.9-6.7-14.9-14.9V31.6h-10.5V71c0,14,11.4,25.4,25.4,25.4S426.1,85,426.1,71
+		V31.6H415.6z"/>
+	<path d="M654.8,69c5.9-3.5,9.7-9.9,9.7-17.3c0-11.1-9-20.2-20.2-20.2h-21.9v63.1H633V71.9h11.4l13.2,22.8h12.1L654.8,69z
+		 M644.4,61.4H633V42.1c0,0,9.3,0,11.4,0c5.3,0,9.6,4.3,9.6,9.6S649.7,61.4,644.4,61.4z"/>
 </g>
 </svg>

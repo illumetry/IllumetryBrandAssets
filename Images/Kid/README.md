@@ -37,5 +37,3 @@ jpg | image
 [E250.jpg](E250.jpg) | <img src="E250.jpg" width="256px"/>
 [E253.jpg](E253.jpg) | <img src="E253.jpg" width="256px"/>
 [E273.jpg](E273.jpg) | <img src="E273.jpg" width="256px"/>
-[E288.jpg](E288.jpg) | <img src="E288.jpg" width="256px"/>
-[E290.jpg](E290.jpg) | <img src="E290.jpg" width="256px"/>

@@ -6,8 +6,6 @@
 
 jpg | image
 --- | ---
-[A003_02210520_S331.jpg](A003_02210520_S331.jpg) | <img src="A003_02210520_S331.jpg" width="256px"/>
-[A003_02210523_S350.jpg](A003_02210523_S350.jpg) | <img src="A003_02210523_S350.jpg" width="256px"/>
 [E331.jpg](E331.jpg) | <img src="E331.jpg" width="256px"/>
 [E350.jpg](E350.jpg) | <img src="E350.jpg" width="256px"/>
 [E359.jpg](E359.jpg) | <img src="E359.jpg" width="256px"/>

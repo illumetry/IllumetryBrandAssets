@@ -15,12 +15,6 @@ jpg | image
 
 jpg | image
 --- | ---
-[User1.jpg](User1.jpg) | <img src="User1.jpg" width="256px"/>
-[User2.jpg](User2.jpg) | <img src="User2.jpg" width="256px"/>
-[User3.jpg](User3.jpg) | <img src="User3.jpg" width="256px"/>
-[User4.jpg](User4.jpg) | <img src="User4.jpg" width="256px"/>
-[User5.jpg](User5.jpg) | <img src="User5.jpg" width="256px"/>
-[User6.jpg](User6.jpg) | <img src="User6.jpg" width="256px"/>
 [E604.jpg](E604.jpg) | <img src="E604.jpg" width="256px"/>
 [E619.jpg](E619.jpg) | <img src="E619.jpg" width="256px"/>
 [E668.jpg](E668.jpg) | <img src="E668.jpg" width="256px"/>

@@ -9,7 +9,6 @@ jpg | image
 [407.jpg](407.jpg) | <img src="407.jpg" width="256px"/>
 [513.jpg](513.jpg) | <img src="513.jpg" width="256px"/>
 [533.jpg](533.jpg) | <img src="533.jpg" width="256px"/>
-[557.jpg](557.jpg) | <img src="557.jpg" width="256px"/>
 [561.jpg](561.jpg) | <img src="561.jpg" width="256px"/>
 [605.jpg](605.jpg) | <img src="605.jpg" width="256px"/>
 [621.jpg](621.jpg) | <img src="621.jpg" width="256px"/>
@@ -17,6 +16,7 @@ jpg | image
 [659.jpg](659.jpg) | <img src="659.jpg" width="256px"/>
 [460.jpg](460.jpg) | <img src="460.jpg" width="256px"/>
 [377.jpg](377.jpg) | <img src="377.jpg" width="256px"/>
+<!-- [557.jpg](557.jpg) | <img src="557.jpg" width="256px"/> -->
 
 ## Glasses and stylus
 

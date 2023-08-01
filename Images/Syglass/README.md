@@ -13,7 +13,6 @@ jpg | image
 [S965.jpg](S965.jpg) | <img src="S965.jpg" width="256px"/>
 [S968.jpg](S968.jpg) | <img src="S968.jpg" width="256px"/>
 [S971.jpg](S971.jpg) | <img src="S971.jpg" width="256px"/>
-[S976.jpg](S976.jpg) | <img src="S976.jpg" width="256px"/>
 
 ### Stylus
 
